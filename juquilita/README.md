@@ -29,7 +29,7 @@ export DB_HOST=localhost
 export DB_PORT=5432
 export DB_NAME=juquilita
 export DB_USER=postgres
-export DB_PASSWORD=postgres
+export DB_PASSWORD=TU_CONTRASENA
 ```
 
 ### 2. Backend
